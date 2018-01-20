@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+
+.early-life-text{
+  Margin-top:70px;
+  padding-right:80px;
+}
+.legacy-text{
+  Margin-top:70px;
+  padding-right:80px;}
+p{font-family:sans-serif;
+font-size:16px;}
+body{
+  background-color:orange;
+}
+.well{
+    background-color:rgb(251, 255, 20)
+      
+}
+bs-example{
+   position: relative;
+}
+.border{
+  border-style:solid;
+  } 
+.margin{
+  margin-top:40px;
+  margin-right: auto;
+  margin-bottom:40px;
+  margin-left:auto;
+}
+  
+
+#main{
+  padding: 40px  20 40 20;      
+}
+
+
+
+
+
+
+
+
+
